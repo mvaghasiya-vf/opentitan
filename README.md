@@ -1,5 +1,6 @@
 # OpenTitan
 
+
 ![OpenTitan logo](./doc/opentitan-logo.png)
 
 ## About the project
